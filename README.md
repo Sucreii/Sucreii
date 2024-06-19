@@ -9,6 +9,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kyle-Carmela-Odtohan) 
+[![GMail](https://img.shields.io/badge/GMail-%23FFFFFF.svg?logo=gmail&logoColor)](mailto:kylecarmela.odtohan@gmail.com) 
 
 # 💻 Tech Stack
 <div align="center">
