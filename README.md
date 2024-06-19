@@ -5,7 +5,7 @@
 # 💫 About Me
 ![image](https://img.icons8.com/?size=20&id=23318&format=png&color=000000) Bachelor of Science in Information Technology at Our Lady of Fatima, University, Antipolo
 <br>![image](https://img.icons8.com/?size=20&id=7Smqb0yCJPhE&format=png&color=000000) Front-End Web Developer
-<br>![iamge](https://img.icons8.com/?size=20&id=110287&format=png&color=000000) Currently learning about data-swiper<br>
+<br>![iamge](https://img.icons8.com/?size=20&id=110287&format=png&color=000000) Currently learning about css animations<br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kyle-Carmela-Odtohan) 
