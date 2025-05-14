@@ -13,8 +13,8 @@
 
 # 💻 Tech Stack
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,php,cpp,nodejs,materialui,bootstrap,react,figma,webflow" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,atom,vscode,pycharm,arduino,github,ubuntu,mysql,postman,vercel,regex" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,php,materialui,bootstrap,react,figma,webflow" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,vscode,github,ubuntu,mysql,vercel,regex" /><br>
 </div>
 
 ---
